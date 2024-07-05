@@ -8,7 +8,7 @@
 ## [Обучение YOLOv8 для детекции знака "Пешеходный переход"](https://github.com/shlyahin/3dml_hw8/tree/main/notebooks)
 Дообучена модель YOLOv8-nano.
 
-[Ноутбук](https://github.com/shlyahin/3dml_hw8/blob/main/notebooks/yolo_train_hw08.ipynb) скорее для ознакомления, для запуска нужно изменить все ссылки. Веса обученной модели здесь(https://github.com/shlyahin/3dml_hw8/blob/main/notebooks/weights/best.pt).
+[Ноутбук](https://github.com/shlyahin/3dml_hw8/blob/main/notebooks/yolo_train_hw08.ipynb) скорее для ознакомления, для запуска нужно изменить все ссылки. Веса обученной модели [здесь](https://github.com/shlyahin/3dml_hw8/blob/main/notebooks/weights/best.pt).
 
-Результаты теста на [реальных изображениях](notebooks/data/test) лежат [тут](https://github.com/shlyahin/3dml_hw8/tree/main/notebooks/preds)
+Результаты теста на [реальных изображениях](notebooks/data/test) лежат [тут](https://github.com/shlyahin/3dml_hw8/tree/main/notebooks/preds).
 
